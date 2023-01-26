@@ -1,4 +1,4 @@
-# Trabalho Pratico 
+# Trabalho Pratico de Estrutura de Dados 2
 
 ## Equipe
 
